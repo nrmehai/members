@@ -8,3 +8,15 @@ Please take a look at the [CONTRIBUTING.md](https://github.com/MontgomeryCollege
 Name: Max
 
 About: Major in Computer Science. 
+
+
+Name: Abhi Nishida
+
+About: Major in Math
+
+
+Name: Richard Tran
+
+About: Chad
+
+
