@@ -1,7 +1,7 @@
 # Members
 Please make your first PR here!
 
-Please take a look at the Contributing.md file first.
+Please take a look at the [CONTRIBUTING.md](https://github.com/MontgomeryCollegeGermantown/members/blob/master/CONTRIBUTING.md) file first.
 
 ## Introductions
 
