@@ -13,7 +13,7 @@ Instructions for people NOT on their own computer (browser): [GitHub Tutorial](h
 
 ## Contributing Guide
 
->> Please use this format:
+> Please use this format:
 
 Name: John Doe
 
