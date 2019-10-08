@@ -30,3 +30,9 @@ Name: Philippe-Andre
 About: Double Major Business/Information Systems
 
 ==
+
+Name: Eugene Domrachev
+
+About: Thad
+
+==
