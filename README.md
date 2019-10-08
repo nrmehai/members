@@ -5,20 +5,28 @@ Please take a look at the [CONTRIBUTING.md](https://github.com/MontgomeryCollege
 
 ## Introductions
 
+==
+
 Name: Max
 
 About: Major in Computer Science. 
 
+==
 
 Name: Abhi Nishida
 
 About: Major in Math
 
+==
 
 Name: Richard Tran
 
 About: Chad
 
+==
+
 Name: Philippe-Andre
 
 About: Double Major Business/Information Systems
+
+==
