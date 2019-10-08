@@ -15,7 +15,10 @@ Instructions for people NOT on their own computer (browser): [GitHub Tutorial](h
 
 > Please use this format:
 
+==
+
 Name: John Doe
 
 About: Hi! I major in Cyber Security and I'm interested in Computer Science because I love problem solving!
 
+==
