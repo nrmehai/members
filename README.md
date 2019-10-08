@@ -19,4 +19,6 @@ Name: Richard Tran
 
 About: Chad
 
+Name: Philippe-Andre
 
+About: Double Major Business/Information Systems
