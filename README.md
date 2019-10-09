@@ -21,7 +21,7 @@ About: Major in Math
 
 Name: Richard Tran
 
-About: Chad
+About: Mad Lad Chad - Major in Computer Science.
 
 ==
 
