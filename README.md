@@ -39,6 +39,6 @@ About: Thad
 
 Name: Noor Mehai
 
-About: What's good. Major in Comp Sci. Subscribe to my youtube channel: https://www.youtube.com/watch?v=Up4-byavNxw
+About: What's good. Major in Comp Sci.
 
 ==
